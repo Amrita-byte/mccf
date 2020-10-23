@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: mccf
+  profiles:
+    active: dev
+  
